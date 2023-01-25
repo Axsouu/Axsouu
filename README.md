@@ -10,3 +10,4 @@ I work on differents languages --> HTML, CSS for now, I'll see JS, PHP soon.
 ### | Stats :
 [![Les Stats GitHub de Axsouu](https://github-readme-stats.vercel.app/api?username=Axsouu&theme=radical&layout=default&card_width=495)](https://github.com/Axsouu/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axsouu)](https://github.com/Axsouu/github-readme-stats)
