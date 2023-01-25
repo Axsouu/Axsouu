@@ -8,7 +8,7 @@ I work on differents languages --> HTML, CSS for now, I'll see JS, PHP soon.
 ```
 
 ### | Stats :
-![Les Stats GitHub de Axsouu](https://github-readme-stats.vercel.app/api?username=Axsouu&show_icons=true&theme=tokyonight&hide_title=true)
+[![Les Stats GitHub de Axsouu](https://github-readme-stats.vercel.app/api?username=Axsouu&show_icons=true&theme=tokyonight&hide_title=true)
 
 [![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=Axsouu&theme=tokyonight&layout=default&card_width=495)](https://github.com/Axsouu/Axsouu)
 
