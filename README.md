@@ -1,4 +1,4 @@
-### Hi there 
+### Hi ! You want to know more about me ? Everything is here ! 
 qsdqsd👋
 
 <!--
