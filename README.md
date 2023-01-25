@@ -8,4 +8,4 @@ I work on differents languages --> HTML, CSS for now, I'll see JS, PHP soon.
 ```
 
 ### Stats :
-[![Les Stats GitHub de Axsouu](https://github-readme-stats.vercel.app/api?username=Axsouu?theme=THEME_DARK)](https://github.com/Axsouu/github-readme-stats)
+[![Les Stats GitHub de Axsouu](https://github-readme-stats.vercel.app/api?username=Axsouu&theme=tokyonight&layout=default&card_width=495)](https://github.com/Axsouu/github-readme-stats)
