@@ -6,4 +6,6 @@ I'm currently in 1st Vocational Baccalauréat, in Digital Systems.
 
 I work on differents languages --> HTML, CSS for now, I'll see JS, PHP soon.
 ```
-[![Les Stats GitHub de Axsouu](https://github-readme-stats.vercel.app/api?username=Axsouu)](https://github.com/Axsouu/github-readme-stats)
+
+### Stats :
+[![Les Stats GitHub de Axsouu](https://github-readme-stats.vercel.app/api?username=Axsouu?theme=THEME_DARK)](https://github.com/Axsouu/github-readme-stats)
