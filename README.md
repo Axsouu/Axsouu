@@ -1,4 +1,4 @@
-### Hi! You want to know more about me? Everything is here! 🚀
+### | Hi! You want to know more about me? Everything is here! 🚀
 
 ```
 Noah, 16 years old, I'm a young web developer passionate about programming and video games. 
