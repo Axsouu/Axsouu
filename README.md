@@ -14,4 +14,4 @@ I work on differents languages --> HTML, CSS for now, I'll see JS, PHP soon.
 
 ### | Projects :
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Axsouu&repo=github-readme-stats)](https://github.com/Axsouu/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Axsouu&repo=Portfolio&theme=tokyonight&card_width=400)](https://github.com/Axsouu/Portfolio)
