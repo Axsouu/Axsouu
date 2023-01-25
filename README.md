@@ -1,24 +1,8 @@
-### Hi ! You want to know more about me ? Everything is here ! 
+### Hi! You want to know more about me? Everything is here! ⬇
 
 ```
-Noah, 16 years old, I am a young web developer passionate about programming and video games. 
-I am currently in 1st Vocational Baccalauréat, in Digital Systems
+Noah, 16 years old, I'm a young web developer passionate about programming and video games. 
+I'm currently in 1st Vocational Baccalauréat, in Digital Systems.
 
-I work on different languages --> HTML, CSS
-
+I work on differents languages --> HTML, CSS for now, I'll see JS, PHP soon.
 ```
-
-<!--
-**Axsouu/Axsouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
