@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=$%7BAxsouu%7D)
-
 ### | Hi! You want to know more about me? Everything is here! 🚀
 
 ```
